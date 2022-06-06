@@ -1,0 +1,8 @@
+HOW TO RUN THE PROGRAM:
+
+1. Extract the file
+2. In Java Eclipse, go to file -> import
+3. Select General -> Existing project into workspace
+4. Browse and select the folder to import under root directory
+5. Press finish
+6. Everything is complete. Simply run the program and it should work.
